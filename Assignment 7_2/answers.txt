@@ -1,0 +1,7 @@
+Question 3:
+Output of hidden layer neuron 1: 0.763145
+Output of hidden layer neuron 2: 0.802184
+Question 4:
+Output Neuron: 0.752632
+Question 5:
+Mean Squared Error: 0.15416

@@ -1,0 +1,6 @@
+Question 1:
+The minimum number of perceptrons required to solve the XOR problem is 3 perceptrons. The XOR logic gate is implemented by using an OR, NAND and AND gate.The logic that indicates how the perceptrons should be connected is given by the equation: A XOR B =  (A OR B) AND (A NAND B). The perceptrons should be connected in two layers, the first layer consisting of the OR and NAND perceptrons, and the output layer consisting of the AND perceptron.
+
+
+Question 2:
+Each perceptron required the use of 4 training examples. Therefore, 12 training examples were used in total.
